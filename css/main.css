@@ -60,3 +60,12 @@ video {
   border: 1px solid var(--grey);
   text-align: center;
 }
+
+.section-1 {
+  flex-direction: row;
+}
+
+.section-1 .box {
+  width: 25%;
+}
+
