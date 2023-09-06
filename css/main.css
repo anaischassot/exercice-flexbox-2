@@ -69,3 +69,12 @@ video {
   width: 25%;
 }
 
+.section-2 {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.section-2 .box {
+  width: 50%;
+}
+
