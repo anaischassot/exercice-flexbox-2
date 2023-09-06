@@ -46,3 +46,17 @@ video {
 /* ====================================
 // base rules
 // ==================================== */
+
+.section {
+  display: flex;
+  background-color: var(--beige);
+  padding: 10px 0;
+  margin: 10px;
+}
+
+.box {
+  background-color: var(--white);
+  color: var(--black);
+  border: 1px solid var(--grey);
+  text-align: center;
+}
