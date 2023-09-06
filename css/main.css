@@ -87,3 +87,14 @@ video {
 .section-3 .box {
   padding: 20px;
 }
+
+.section-4 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--gap);
+}
+
+.section-4 .box {
+  width: 40%;
+}
