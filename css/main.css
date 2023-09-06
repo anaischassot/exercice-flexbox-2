@@ -98,3 +98,27 @@ video {
 .section-4 .box {
   width: 40%;
 }
+
+.section-5 {
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  gap: var(--gap);
+  padding: 10px;
+}
+
+.section-5 .box {
+  padding: 10px;
+}
+
+.section-5 .box-2 {
+  height: 80px;
+}
+
+.section-5 .box-3 {
+  height: 60px;
+}
+
+.section-5 .box-4 {
+  height: 100px;
+}
